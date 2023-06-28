@@ -1,0 +1,39 @@
+* {
+	font-size: 3rem;
+	text-decoration:initial;
+}
+
+
+
+body {
+	
+		height: 100vh;
+		background: linear-gradient(
+			135deg,#153677,#4e085f
+			
+		);
+}
+
+.container{
+	width: 100%;
+	max-width: 100%;
+	background: #fff;
+	margin: 100px auto 20px;
+	padding: 10px;
+	border-radius: 10px;
+}
+h1{
+	text-align: center;
+	text-align: left;
+	font-size: 3rem;
+	list-style: circle;
+
+}
+
+li:hover{
+	color:rgb(107, 55, 55);
+	margin: 4%;
+	transition: 1.5s ease;
+	cursor: pointer;
+}
+
